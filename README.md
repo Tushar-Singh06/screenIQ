@@ -184,7 +184,7 @@ src/
 # 1. Clone Repository
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Tushar-Singh06/screenIQ.git
 cd screeniq
 ```
 
